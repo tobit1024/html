@@ -1,0 +1,23 @@
+body {height: 100vh; background: url(images/wallpaper.jpg); background-size: cover;}.bolder {font: bolder;}
+footer { border-radius: 50px 50px 0px 0px; width: 93.4%; margin: 100px 3.3%; height: 200px; background: linear-gradient(to right, rgb(252, 158, 231), rgb(243, 171, 138))}
+th, td {font-weight: bolder;}
+.white {color: white;}
+.hdcon {display: flex; height: 100px; justify-content: space-evenly; align-items: center;}
+.hditem {flex-basis: 100px;}
+.bd2con {display: flex; width: 100%; justify-content: space-evenly;}
+.bd2item {width: 45%; border-radius: 50px; background-color: white}
+.bd1div {display: flex; width: 93.4%; border-radius: 50px; background-color: white; margin: 100px 3.3%;}
+.margin50 {margin: 50px;}
+.introtitle {font-size: 100px; margin: -33px 0px 0px 0px;}
+.leftfloat {float: left;}
+.joystick {margin: -30px 22px -40px 0px}
+.logotxt {height: 100px; margin-top:31px; line-height: 0.7}
+.mark {float: left; margin: 0px 0px 0px 50px;}
+.hd {background-color: white; height: 100px; width: 100%; border-radius: 50px; margin: 10px;}
+.hdlist {color: grey; opacity: 0.7;}
+.hdlistdiv {float: left; height: 70px; margin: 15px 30px;}
+.navs {height: 50px; border-radius: 25px; background-color: rgb(255, 182, 123); margin: 20px 0px; width: 200px;}
+.navdiv {float: right; height: 50px; width: 150px;}
+.navimg {float: right; height: 50px; width: 50px;}
+.navtxt {color:black; font-size: 30px; font-weight: bolder; text-align: center; line-height: 0;}
+.subtitletxt {line-height: 0.7;}
